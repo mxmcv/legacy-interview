@@ -218,28 +218,7 @@ curl -X POST http://localhost:8000/chat \
 curl http://localhost:8000/stats
 ```
 
-## 🤝 Contributing
-
-This is an MVP. Potential enhancements:
-
-- User authentication
-- Conversation history
-- Response rating/feedback
-- Dark mode
-- Export conversations
-- Multi-language support
-- Voice input/output
-
-## 📄 License
-
-[Add your license here]
-
 ## ⚠️ Disclaimer
 
 This application is for informational and educational purposes only. It is not a substitute for professional mental health care. If you're experiencing a mental health crisis, please contact a qualified healthcare provider or emergency services.
 
-## 🆘 Support Resources
-
-- **National Suicide Prevention Lifeline**: 1-800-273-8255
-- **Crisis Text Line**: Text HOME to 741741
-- **SAMHSA National Helpline**: 1-800-662-4357
